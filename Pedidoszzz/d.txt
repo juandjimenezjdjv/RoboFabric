@@ -1,0 +1,4 @@
+SegundoPrioridad
+4
+C30	5
+C50	10

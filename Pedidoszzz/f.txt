@@ -1,0 +1,5 @@
+PrimerErrorC
+-77
+A03	30
+B09	1
+B00	10

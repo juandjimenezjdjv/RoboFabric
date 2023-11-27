@@ -1,0 +1,4 @@
+SegundoNormal
+3
+A01	100
+A03	5

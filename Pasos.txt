@@ -1,0 +1,9 @@
+Metas hoy:
+
+
+-Leer archivos y ponerlos en las listas correspondientes
+-Los archivos de pedidos dañados deben ir a Errores
+-Si los archivos de almacen y clientes estan dañados no dejar que corra hasta que se arregle.
+
+
+-Clientes: No se repitan clientes y si el cliente no tiene formato correcto que se lo brinque

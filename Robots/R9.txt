@@ -1,0 +1,7 @@
+R9
+todas
+true
+true
+true
+20
+10

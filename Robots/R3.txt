@@ -1,0 +1,7 @@
+R3
+C
+true
+false
+true
+20
+10

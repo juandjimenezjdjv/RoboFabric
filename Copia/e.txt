@@ -1,0 +1,6 @@
+TerceroPrioridad
+5
+A01	77
+A03	77
+B09	77
+B00	77

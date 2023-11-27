@@ -1,0 +1,4 @@
+PrimeroNormal
+2
+A01	10
+C30	30

@@ -1,0 +1,5 @@
+1	PrimeroPrio	10
+2	PrimeroNormal	5
+3	SegundoNormal	9
+4	SegundoSi	11
+5	TerceroSi	10
